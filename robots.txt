@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://idiwayer.github.io/sitemap.html.gz
+Sitemap: https://idiwayer.github.io/app/sitemap.html.gz
+Sitemap: https://idiwayer.github.io/assets/sitemap.html.gz
+Sitemap: https://idiwayer.github.io/css/sitemap.html.gz
+Sitemap: https://idiwayer.github.io/includes/sitemap.html.gz
+Sitemap: https://idiwayer.github.io/item/sitemap.html.gz
+Sitemap: https://idiwayer.github.io/src/sitemap.html.gz
